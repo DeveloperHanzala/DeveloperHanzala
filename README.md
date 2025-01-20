@@ -7,6 +7,7 @@ Frontend Excellence: Crafting pixel-perfect UI with HTML, CSS, and frameworks li
 React.js Enthusiast: Dynamic components, state management, and blazing-fast SPAs.
 Backend Wizardry: Scalable APIs and server-side logic with Node.js and PHP.
 Version Control: Always keeping projects organized and collaborative with Git and GitHub.
+
 🌟 **What Drives Me?**
 I thrive on transforming ideas into digital realities. From brainstorming UI/UX designs to deploying seamless full-stack solutions, every step of the journey fuels my passion for web development.
 
