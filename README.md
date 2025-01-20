@@ -12,5 +12,6 @@ Version Control: Always keeping projects organized and collaborative with Git an
 I thrive on transforming ideas into digital realities. From brainstorming UI/UX designs to deploying seamless full-stack solutions, every step of the journey fuels my passion for web development.
 
 🔗 Let's Connect!
+
 LinkedIn: https://www.linkedin.com/in/hanzala-masood-009140269/  
 📫 Feel free to explore my repositories and projects. Contributions, collaborations, and feedback are always welcome! Let's build something amazing together. 💡
